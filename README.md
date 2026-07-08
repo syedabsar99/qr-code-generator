@@ -8,13 +8,7 @@ A responsive and user-friendly QR Code Generator built with **HTML**, **CSS**, a
 
 ## 📸 Preview
 
-> Add a screenshot of the application here after uploading it to the repository.
-
-Example:
-
-```md
 ![QR Code Generator Screenshot](./screenshot.png)
-```
 
 ## ✨ Features
 
@@ -37,13 +31,16 @@ Example:
 
 ## 📂 Project Structure
 
-```
+```text
 qr-code-generator/
-│── index.html
-│── style.css
-│── script.js
-└── README.md
+├── index.html
+├── style.css
+├── script.js
+├── screenshot.png
+├── README.md
+└── .gitignore
 ```
+
 
 ## 🚀 Getting Started
 
