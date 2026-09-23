@@ -352,3 +352,20 @@ body {
     width: 190px;
   }
 }
+
+@media (max-width: 380px) {
+  body {
+    padding: 12px 10px;
+  }
+  .container {
+    padding: 22px 14px;
+    border-radius: 18px;
+  }
+  .container h1 {
+    font-size: 20px;
+  }
+  #imgBox {
+    width: 165px;
+  }
+}
+
